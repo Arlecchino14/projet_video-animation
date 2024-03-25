@@ -1,3 +1,4 @@
+
 ## Synopsis
 Un homme épuisé est assis à son bureau, il effectue difficilement des tâches monotones en mangeant son déjeuner composé d’œufs. Un homme vigoureux se trouve dans le cadre de la porte, il a un couteau dans la main. Alors que l’homme épuisé crève un jaune d’œuf, il se fait assassiner par l’autre homme et tombe au sol. <br>
 L’assassin s’installe au bureau et commence à effectuer les tâches et à manger le déjeuner. L’histoire reprend comme si rien ne s’était passé..
@@ -10,12 +11,13 @@ Par la présence d’un déjeuner, on souhaite certes démontrer que l’homme e
 
 
 ## Moodboard
-![](.//Medias/moodboard.jpg)
+![](.//media/moodboard.jpg)
+![](.//media/moodboard_artistique_1.jpg)
 
 ## Direction Artistique
 
 ## Direction Photo
-
+![](.//media/moodboard_photo_1.jpg)
 
 ## Storyboard
 
